@@ -2,6 +2,7 @@
 111
 333
 444
+aoisjd
 <<<<<<< HEAD
 git reset --soft HEAD^
 =======
