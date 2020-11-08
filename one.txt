@@ -2,4 +2,7 @@
 111
 333
 444
+<<<<<<< HEAD
 git reset --soft HEAD^
+=======
+>>>>>>> 3ea870d94d68cdc3ef0508b74deefacfc30fbd7c

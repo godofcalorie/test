@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 learn git and more
+=======
+learn git
+>>>>>>> 3ea870d94d68cdc3ef0508b74deefacfc30fbd7c
